@@ -1,0 +1,11 @@
+# Ignore vivado-related artifacts
+
+*.jou
+*.log
+*.dcp
+*.bit
+*.xpr
+*.str
+
+#ignore entire project folder
+XU6_MIPI_Project
